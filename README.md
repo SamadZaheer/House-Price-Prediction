@@ -184,5 +184,3 @@ in building an accurate predictive Machine Learning system.
 
 Master of Information Technology (Data Science)  
 Queensland University of Technology (QUT)
-
----
